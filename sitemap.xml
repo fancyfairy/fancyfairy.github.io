@@ -2,7 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/04/21/hello-world/</loc>
+    <loc>https://fancyfairy.github.io/about/index.html</loc>
+    
+    <lastmod>2017-04-22T12:58:12.670Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fancyfairy.github.io/404.html</loc>
+    
+    <lastmod>2017-04-21T09:18:54.788Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fancyfairy.github.io/categories/index.html</loc>
+    
+    <lastmod>2017-04-21T09:17:36.785Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fancyfairy.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-04-21T09:17:25.237Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fancyfairy.github.io/blog/2017/04/hello-world.html</loc>
     
     <lastmod>2017-04-21T09:06:38.304Z</lastmod>
     
