@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>躁起来吧，Fancyfairy</title>
+  <title>Keep Learning，Fancyfairy</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fancyfairy.github.io/"/>
-  <updated>2017-04-21T09:06:38.304Z</updated>
+  <updated>2017-04-22T14:42:32.498Z</updated>
   <id>https://fancyfairy.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Hexo搭建github个人博客</title>
+    <link href="https://fancyfairy.github.io//blog/2017/04/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BAgithub%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html"/>
+    <id>https://fancyfairy.github.io//blog/2017/04/使用Hexo搭建github个人博客.html</id>
+    <published>2017-04-22T14:40:14.000Z</published>
+    <updated>2017-04-22T14:42:32.498Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hexo" scheme="https://fancyfairy.github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://fancyfairy.github.io/tags/hexo/"/>
+    
+      <category term="github" scheme="https://fancyfairy.github.io/tags/github/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
